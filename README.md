@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
   <img src="https://blr.vue.community/logo.png" width="100" />
-  <h1>Vue Bangalore</h1>
-  <p>A Vue meetup in Bangalore, India.</p>
+  <h1>Vue Rajkot</h1>
+  <p>A Vue meetup in Rajkot, India.</p>
 </div>
 
 ## What?
@@ -46,6 +46,4 @@ Use any of the following methods to communicate with us:
 
 ## Organizers
 
-- Rahul Kadyan - [@znck0](https://github.com/znck)
-- Swapnil Agarwal - [@swapagarwal](https://github.com/swapagarwal)
-- Nimit Bhargava - [@nimitbhargava](https://github.com/nimitbhargava)
+- Chintan Banugaria - [@chintanbanugaria](https://github.com/chintanbanugaria)

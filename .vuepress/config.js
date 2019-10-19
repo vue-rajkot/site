@@ -1,8 +1,8 @@
 const { events } = require('./plugins/events')
 
 module.exports = {
-  title: 'VueBLR',
-  description: 'Vue Meetup in Bangalore, India',
+  title: 'VueRJT',
+  description: 'Vue Meetup in Rajkot, India',
   ga: 'UA-38503997-3',
   plugins: [
     require('./plugins/events')
@@ -55,7 +55,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/logo.png',
-    repo: 'vuejs-in/vue-bangalore',
+    repo: 'vue-rajkot/site',
     docsDir: '/',
     locales: {
       '/': {
