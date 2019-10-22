@@ -77,41 +77,37 @@ module.exports = {
           },
           {
             text: 'Propose a Talk',
-            link: 'http://bit.ly/vueblrcfp'
+            link: 'https://airtable.com/shrVTK5doLybtEuHu'
           },
-          {
-            text: 'Newsletter',
-            link: 'https://buttondown.email/VueBLR'
-          },
-          {
-            text: 'Code of Conduct',
-            link: 'https://github.com/VueJS-IN/vue-bangalore/blob/master/CODE_OF_CONDUCT.md'
-          },
-          {
-            text: 'Join Us',
-            items: [
-              {
-                text: 'Meetup',
-                link: 'https://meetup.com/vue-bangalore'
-              },
-              {
-                text: 'Twitter',
-                link: 'https://twitter.com/vueblr'
-              },
-              {
-                text: 'WhatsApp',
-                link: 'http://bit.ly/vueblr-whatsapp'
-              },
-              {
-                text: 'Facebook Page',
-                link: 'https://www.facebook.com/vue.blr'
-              },
-              {
-                text: 'Facebook Group',
-                link: 'https://www.facebook.com/groups/vue.blr'
-              }
-            ]
-          },
+          // {
+          //   text: 'Code of Conduct',
+          //   link: 'https://github.com/VueJS-IN/vue-bangalore/blob/master/CODE_OF_CONDUCT.md'
+          // },
+          // {
+          //   text: 'Join Us',
+          //   items: [
+          //     {
+          //       text: 'Meetup',
+          //       link: 'https://meetup.com/vue-bangalore'
+          //     },
+          //     {
+          //       text: 'Twitter',
+          //       link: 'https://twitter.com/vueblr'
+          //     },
+          //     {
+          //       text: 'WhatsApp',
+          //       link: 'http://bit.ly/vueblr-whatsapp'
+          //     },
+          //     {
+          //       text: 'Facebook Page',
+          //       link: 'https://www.facebook.com/vue.blr'
+          //     },
+          //     {
+          //       text: 'Facebook Group',
+          //       link: 'https://www.facebook.com/groups/vue.blr'
+          //     }
+          //   ]
+          // },
         ]
       }
     }

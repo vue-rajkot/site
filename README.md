@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="https://blr.vue.community/logo.png" width="100" />
+  <img src="http://localhost:8080/logo.png" width="100" />
   <h1>Vue Rajkot</h1>
   <p>A Vue meetup in Rajkot, India.</p>
 </div>
@@ -20,8 +20,6 @@ You should attend if:
   - Working in a start-up where you want to quickly experiment with things (Vue is an easy-to-pick frontend framework with documented ways of doing common things)
   - Working in a large company and are evaluating options
 - You're already working on Vue and want to connect with like-minded people
-
-We host regular full-day workshops as well as a getting-started workshop at the start of every meetup.
 
 ## Upcoming Meetups
 
