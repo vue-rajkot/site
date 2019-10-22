@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-  <img src="http://localhost:8080/logo.png" width="100" />
+  <img src="https://modest-bose-1a934c.netlify.com/logo.png" width="100" />
   <h1>Vue Rajkot</h1>
   <p>A Vue meetup in Rajkot, India.</p>
 </div>
