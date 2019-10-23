@@ -42,6 +42,6 @@ Use any of the following methods to communicate with us:
 - Request a talk (prefix with "Request: ").
 - Join the group on meetups to stay updated with info of the next meetups.
 
-## Organizers
+<!-- ## Organizers
 
-- Chintan Banugaria - [@chintanbanugaria](https://github.com/chintanbanugaria)
+- Chintan Banugaria - [@chintanbanugaria](https://github.com/chintanbanugaria) -->
