@@ -1,7 +1,7 @@
 ---
 id: 01
 title: Hello Rajkot
-date: 2019-12-08
+date: 2019-12-15
 time: 10am - 2pm
 photos:
 venue:
