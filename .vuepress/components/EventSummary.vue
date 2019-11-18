@@ -11,7 +11,7 @@ export default {
   },
   methods: {
     showTicketsPopup: function() {
-      popup(this.townscript);
+      // popup(this.townscript);
     }
   }
 };
