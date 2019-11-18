@@ -3,7 +3,6 @@ id: 01
 title: Hello Rajkot
 date: 2019-12-08
 time: 10am - 2pm
-townscript: vueblr-20
 photos:
 venue:
   name: To be announced soon
