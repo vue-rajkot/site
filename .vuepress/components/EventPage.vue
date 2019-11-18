@@ -2,9 +2,9 @@
   <div class="event">
     <header>
       <h1 class="title">
-        <a :href="'https://meetup.com/vue-bangalore/events/' + $page.frontmatter.meetup" target="_blank">
-          <span class="title-hashtag">VueBLR #{{ $page.frontmatter.id }}</span>
-        </a>
+        <!-- <a :href="'https://meetup.com/vue-bangalore/events/' + $page.frontmatter.meetup" target="_blank"> -->
+          <span class="title-hashtag">VueRJT #{{ $page.frontmatter.id }}</span>
+      <!--   </a> -->
         <span class="title-text">{{ $page.frontmatter.title }}</span>
       </h1>
     </header>
