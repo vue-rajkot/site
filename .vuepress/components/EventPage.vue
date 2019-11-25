@@ -29,16 +29,18 @@
         <p><strong>Venue:</strong> {{ $page.frontmatter.venue.name }} (<a :href="$page.frontmatter.venue.map" target="_blank" rel="noopener noreferrer">see on map</a>)</p>
       </section>
 
-      <section v-if="widget">
+      <section>
         <h2>Register</h2>
-        <iframe :src="widget" frameborder="10" height="600" width="100%"></iframe>
+        <iframe :src="$page.frontmatter.register" frameborder="10" height="600" width="100%"></iframe>
       </section>
 
-      <h2>Sponsors</h2>
-      <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" />
+      <!-- <h2>Sponsors</h2>
+      <EventSponsor v-for="(item, index) in $page.frontmatter.sponsors" :key="item.sponsor" v-bind="item" /> -->
 
-      <h2>Organizers</h2>
-      <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="item" :speaker="item" />
+      <!-- <h2>Organizers</h2>
+      <EventSpeaker v-for="(item, index) in $page.frontmatter.organizers" :key="item" :speaker="item" /> -->
+      <h2>Anchoring</h2>
+      <EventSpeaker v-for="(item, index) in $page.frontmatter.anchoring" :key="item" :speaker="item" />
     </footer>
   </div>
 </template>
