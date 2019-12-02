@@ -13,6 +13,11 @@ agenda:
       speaker: Harikrushna <@HK_Adiecha>
       bio: Senior Software Engineer @ Improwised Technology. I’ve worked with different backend and frontend technologies. Now a days I'm exploring VueJS.
       description: 
+    - title: Overview of NuxtJS, SSR and SPAs
+      type: talk
+      speaker: Nikunj Kanetiya <@Nik_Kanetiya>
+      bio: I am a passionate Full Stack Web developer working with Nuxt/Vue, Node & Laravel. I am also a co-founder of BinBytes and Lead developer at HighLevel.
+      description: 
 register: https://allevents.in/rajkot/80006937726531
 anchoring:
   - Rohan Rajani <@imrrajani>
