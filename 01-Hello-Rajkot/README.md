@@ -12,6 +12,7 @@ agenda:
       type: talk
       speaker: Harikrushna <@HK_Adiecha>
       bio: Senior Software Engineer @ Improwised Technology. I’ve worked with different backend and frontend technologies. Now a days I'm exploring VueJS.
+      deck: https://docs.google.com/presentation/d/1pi3htTok19HmAPu9QqARfI7t0LfPejxIZKaih2Zexkw/edit?usp=sharing
       description: 
     - title: Overview of NuxtJS, SSR and SPAs
       type: talk
